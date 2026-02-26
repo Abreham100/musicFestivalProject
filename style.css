@@ -1,0 +1,146 @@
+
+
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #574c4c;
+}
+.wrapper {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+
+.site-header {
+  background-color: #d46666;
+  color: #fdf7f6;
+  padding: 10px 0;
+}
+
+.brand {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.brand span {
+  color: #ffcc00;
+}
+
+
+.site-nav ul {
+  list-style-type: none;
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+
+.site-nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: #1f08f5;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.site-nav a:hover {
+  background-color: #555555;
+}
+
+.site-nav .active {
+  background-color: #ffcc00;
+  color: #000000;
+}
+.intro-section {
+  background-color: #f3f3ee;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.intro-tagline,
+.intro-subtitle,
+.datelocation {
+  font-size: 14px;
+}
+
+.section {
+  margin: 20px 0;
+}
+
+.section-heading {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.section-intro {
+  font-size: 14px;
+}
+
+.card {
+  border: 1px solid lab(5.33% 1.2 0.42 / 0.98);
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #e2d6d1;
+}
+
+.text {
+  font-size: 14px;
+   color: #000000;
+}
+
+.tickets {
+  font-size: 14px;
+   color: #200606e1;
+}
+ 
+.intro-section {
+font-size: 14px;
+   color: #110505e1; }
+   form {
+    width: 300px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+input, textarea {
+    width: 100%;
+}
+
+
+input[type="submit"] {
+    padding: 6px;
+    color: #530478e1;
+    background-color: #93c78e;
+    font-weight: bold;
+}
+
+.CARD{ padding: 6px;
+    color: #100216;
+    background-color: #f5f1eee1;
+    font-weight: bold;
+
+}
+
+.site-footer {
+    padding: 16px;
+    background-color: #b4a388f8;
+    text-align: center;
+    color: #851313;
+}
+
+.CARD { padding: 6px;
+    color: #1b0101;
+    background-color: #ebe5da;
+    font-weight: bold;
+}
+
+.site-nav {
+    padding: 16px;
+    text-align: center;
+    color: #666;
+}
+
